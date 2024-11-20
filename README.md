@@ -1,7 +1,5 @@
 # student-grade-prediction
 
-# Student Performance Prediction System
-
 ## Overview
 This project predicts student performance (Pass/Fail) using a logistic regression model. The model analyzes features like study hours, attendance rate, previous grades, extracurricular participation, and parental education.
 
